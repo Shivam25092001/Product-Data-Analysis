@@ -16,6 +16,6 @@
 
 *API-3*: ```http://localhost:5000/api/stats/bar-chart?month=1```
 
-*API-1*: ```http://localhost:5000/api/stats/pie-chart?month=1```
+*API-4*: ```http://localhost:5000/api/stats/pie-chart?month=1```
 
-*API-1*: ```http://localhost:5000/api/stats?month=1```
+*API-5*: ```http://localhost:5000/api/stats?month=1```

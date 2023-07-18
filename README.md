@@ -11,7 +11,11 @@
 
 ## API-ROUTES
 *API-1*: ```http://localhost:5000/api/upload```
+
 *API-2*: ```http://localhost:5000/api/stats/total-sales?month=1```
+
 *API-3*: ```http://localhost:5000/api/stats/bar-chart?month=1```
+
 *API-1*: ```http://localhost:5000/api/stats/pie-chart?month=1```
+
 *API-1*: ```http://localhost:5000/api/stats?month=1```
